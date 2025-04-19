@@ -1,0 +1,164 @@
+[
+    {
+      "id": 1,
+      "title": "Frontend Developer",
+      "company": "Microsoft",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/4/44/Microsoft_logo.svg",
+      "description": "Build responsive UIs using React and Tailwind CSS.",
+      "location": "Hyderabad",
+      "package": "₹40 LPA",
+      "openings": 3
+    },
+    {
+      "id": 2,
+      "title": "Software Engineer",
+      "company": "Google",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_2015_logo.svg",
+      "description": "Develop scalable services for Google Cloud Platform.",
+      "location": "Bangalore",
+      "package": "₹45 LPA",
+      "openings": 5
+    },
+    {
+      "id": 3,
+      "title": "Data Scientist",
+      "company": "Amazon",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Amazon_logo.svg",
+      "description": "Work with big data and machine learning models.",
+      "location": "Chennai",
+      "package": "₹38 LPA",
+      "openings": 4
+    },
+    {
+      "id": 4,
+      "title": "iOS Developer",
+      "company": "Apple",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Apple_logo_black.svg",
+      "description": "Build iOS apps and frameworks using Swift.",
+      "location": "Hyderabad",
+      "package": "₹48 LPA",
+      "openings": 2
+    },
+    {
+      "id": 5,
+      "title": "DevOps Engineer",
+      "company": "IBM",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/5/51/IBM_logo.svg",
+      "description": "Manage infrastructure and CI/CD pipelines.",
+      "location": "Pune",
+      "package": "₹32 LPA",
+      "openings": 3
+    },
+    {
+      "id": 6,
+      "title": "Machine Learning Engineer",
+      "company": "NVIDIA",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/4/44/Microsoft_logo.svg",
+      "description": "Build and deploy ML models on GPUs.",
+      "location": "Remote",
+      "package": "₹42 LPA",
+      "openings": 2
+    },
+    {
+      "id": 7,
+      "title": "UI/UX Designer",
+      "company": "Netflix",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/0/08/Netflix_2015_logo.svg",
+      "description": "Design sleek interfaces for entertainment apps.",
+      "location": "Remote",
+      "package": "₹36 LPA",
+      "openings": 2
+    },
+    {
+      "id": 8,
+      "title": "Security Analyst",
+      "company": "Cisco",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/1/19/Spotify_logo_without_text.svg",
+      "description": "Monitor and secure internal network systems.",
+      "location": "Mumbai",
+      "package": "₹30 LPA",
+      "openings": 2
+    },
+    {
+      "id": 9,
+      "title": "Cloud Developer",
+      "company": "Adobe",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/4/44/Microsoft_logo.svg",
+      "description": "Develop tools for Adobe Creative Cloud.",
+      "location": "Noida",
+      "package": "₹34 LPA",
+      "openings": 3
+    },
+    {
+      "id": 10,
+      "title": "Full Stack Developer",
+      "company": "Swiggy",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/5/51/IBM_logo.svg",
+      "description": "Work on both frontend and backend of Swiggy apps.",
+      "location": "Bangalore",
+      "package": "₹25 LPA",
+      "openings": 5
+    },
+    {
+      "id": 11,
+      "title": "Blockchain Developer",
+      "company": "Polygon",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_2015_logo.svg",
+      "description": "Write smart contracts and integrate DeFi platforms.",
+      "location": "Remote",
+      "package": "₹30 LPA",
+      "openings": 3
+    },
+    {
+      "id": 12,
+      "title": "Game Developer",
+      "company": "Ubisoft",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Apple_logo_black.svg",
+      "description": "Develop gameplay systems for AAA games.",
+      "location": "Mumbai",
+      "package": "₹28 LPA",
+      "openings": 2
+    },
+    {
+      "id": 13,
+      "title": "Frontend Engineer",
+      "company": "Spotify",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/1/19/Spotify_logo_without_text.svg",
+      "description": "Create engaging UIs for music experiences.",
+      "location": "Remote",
+      "package": "₹33 LPA",
+      "openings": 3
+    },
+    {
+      "id": 14,
+      "title": "Technical Program Manager",
+      "company": "Meta",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/4/44/Microsoft_logo.svg",
+      "description": "Coordinate tech teams and product roadmaps.",
+      "location": "Gurgaon",
+      "package": "₹52 LPA",
+      "openings": 1
+    },
+    {
+      "id": 15,
+      "title": "QA Engineer",
+      "company": "Intel",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/0/08/Netflix_2015_logo.svg",
+      "description": "Test software products and automate QA processes.",
+      "location": "Bangalore",
+      "package": "₹27 LPA",
+      "openings": 2
+    },
+    {
+      "id": 16,
+      "title": "Frontend Developer",
+      "company": "Microsoft",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/4/44/Microsoft_logo.svg",
+      "description": "Build responsive UIs using React and Tailwind CSS.",
+      "location": "Hyderabad",
+      "package": "₹40 LPA",
+      "openings": 3
+    }
+
+  ]
+  

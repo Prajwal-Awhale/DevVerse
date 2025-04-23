@@ -1,26 +1,19 @@
 @import "tailwindcss";
 @plugin "daisyui";
-
-@import url('https://fonts.googleapis.com/css2?family=Imperial+Script&family=Rouge+Script&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Ranchers&display=swap');
 
 
-:root{
+:root {
     background-color: whitesmoke;
 
 }
-/* index.css or App.css */
-.txt{
-    
-        font-family: "Ranchers", sans-serif;
-        font-weight: 600;
-        font-style: normal;
-        color: black;
-       
-    
-}
-.dev{
-    font-family: "Rouge Script", cursive;
-    font-weight: 400;
+
+.txt {
+
+    font-family: "Ranchers", sans-serif;
+    font-weight: 600;
     font-style: normal;
-  }
+    color: black;
+
+
+}

@@ -8,14 +8,9 @@ import { CiLocationOn } from "react-icons/ci";
 const Jobs = () => {
   return (
     <div className="flex flex-col min-h-screen">
-     
-      <Navbar  />
+      <Navbar />
 
       <div className="flex flex-grow pt-5">
-      
-     
-
-
         <div className="flex-1 p-6 overflow-y-auto">
           <h1 className="text-3xl font-bold text-primary text-center mt-5">
             Available jobs ({JobData.length})
@@ -62,7 +57,6 @@ const Jobs = () => {
         </div>
       </div>
 
-    
       <Footer />
     </div>
   );

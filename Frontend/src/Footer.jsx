@@ -1,9 +1,15 @@
-import React from 'react';
-import { FaGithub, FaLinkedin, FaTwitter, FaInstagram, FaDiscord, FaEnvelope } from 'react-icons/fa';
+import React from "react";
+import {
+  FaGithub,
+  FaLinkedin,
+  FaTwitter,
+  FaInstagram,
+  FaDiscord,
+  FaEnvelope,
+} from "react-icons/fa";
 
 const Footer = () => (
   <footer className="relative bg-gradient-to-br w-full from-purple-900 via-purple-800 to-purple-900 text-white min-h-20vh flex flex-col">
-    {/* Decorative wave */}
     <div className="absolute top-0 left-0 w-full  leading-[0] ">
       <svg
         className="relative block w-full h-8"
@@ -18,27 +24,45 @@ const Footer = () => (
     </div>
 
     <div className="max-w-6xl mx-auto px-6 pt-12 pb-8 grid grid-cols-1 md:grid-cols-3 gap-8">
-      {/* Illustration + About */}
       <div className="flex flex-col items-center md:items-start space-y-4">
         <h1 className="text-2xl font-bold">About DevVerse</h1>
         <p className="text-sm text-purple-300 text-center md:text-left">
-          DevVerse is a community‑driven job portal where developers connect, grow, and get hired. Build your future, one line of code at a time.
+          DevVerse is a community‑driven job portal where developers connect,
+          grow, and get hired. Build your future, one line of code at a time.
         </p>
       </div>
 
-      {/* Quick Links */}
       <div className="flex flex-col items-center md:items-start space-y-2">
         <h3 className="text-xl font-semibold">Quick Links</h3>
         <ul className="space-y-1 text-sm">
-          <li><a href="#" className="hover:text-purple-300 transition">Home</a></li>
-          <li><a href="#" className="hover:text-purple-300 transition">Jobs</a></li>
-          <li><a href="#" className="hover:text-purple-300 transition">Blog</a></li>
-          <li><a href="#" className="hover:text-purple-300 transition">About Us</a></li>
-          <li><a href="#" className="hover:text-purple-300 transition">Contact</a></li>
+          <li>
+            <a href="#" className="hover:text-purple-300 transition">
+              Home
+            </a>
+          </li>
+          <li>
+            <a href="#" className="hover:text-purple-300 transition">
+              Jobs
+            </a>
+          </li>
+          <li>
+            <a href="#" className="hover:text-purple-300 transition">
+              Blog
+            </a>
+          </li>
+          <li>
+            <a href="#" className="hover:text-purple-300 transition">
+              About Us
+            </a>
+          </li>
+          <li>
+            <a href="#" className="hover:text-purple-300 transition">
+              Contact
+            </a>
+          </li>
         </ul>
       </div>
 
-      {/* Newsletter & Social */}
       <div className="flex flex-col items-center md:items-end space-y-4">
         <div className="w-full max-w-xs">
           <h3 className="text-xl font-semibold">Stay Updated</h3>
@@ -57,7 +81,14 @@ const Footer = () => (
           </form>
         </div>
         <div className="flex space-x-4 text-2xl">
-          {[FaGithub, FaLinkedin, FaTwitter, FaInstagram, FaDiscord, FaEnvelope].map((Icon, i) => (
+          {[
+            FaGithub,
+            FaLinkedin,
+            FaTwitter,
+            FaInstagram,
+            FaDiscord,
+            FaEnvelope,
+          ].map((Icon, i) => (
             <a key={i} href="#" className="hover:text-purple-300 transition">
               <Icon />
             </a>
